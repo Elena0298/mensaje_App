@@ -7,10 +7,6 @@ package com.mycompany.mensajes_app;
 
 import java.sql.Connection;
 
-/**
- *
- * @author elena
- */
 public class Inicio {
     
     public static void main(String[] args){
